@@ -1,0 +1,6 @@
+[submodule "moduleRepos/backend"]
+	path = moduleRepos/backend
+	url = https://github.com/ichristine180/backend.git
+[submodule "moduleRepos/frontend"]
+	path = moduleRepos/frontend
+	url = https://github.com/ichristine180/frontend.git
