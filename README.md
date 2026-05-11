@@ -2,6 +2,8 @@
 
 A portal for the National Bank of Rwanda to manage the licensing of commercial banks and financial institutions. The existing process runs entirely on email and spreadsheets: no audit trail, no single source of truth, no visibility into where an application is at any given moment. This replaces it end to end.
 
+**Live demo:** http://49.12.66.239:4000
+
 **Stack:** Node.js + Express backend, PostgreSQL, React 19 + Redux Toolkit frontend (Vite).
 
 Supplementary reading:
